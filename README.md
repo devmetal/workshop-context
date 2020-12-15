@@ -7,6 +7,11 @@ The project is made with next.
 **I suggest to use yarn for this**
 
 ```bash
+# Install the project
+yarn install
+```
+
+```bash
 # For a simple run
 yarn dev
 ```
